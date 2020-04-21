@@ -1,4 +1,4 @@
-In this repository, you have access to a small POC including three different React apps with webpack version 5 including Federated Modules plugin allowing to share component between them and a React application with webpack 3. 
+In this repository, you have access to a small POC including three different React apps with webpack version 5 using Federated Modules plugin allowing to share component between them and a React application with webpack 3. 
 
 # Getting Started
 
